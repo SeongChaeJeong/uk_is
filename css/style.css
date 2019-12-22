@@ -1,0 +1,16 @@
+<style>
+h1 {
+  color: blue;
+  }
+ul {
+  margin: 10; padding: 10;
+}
+li {
+  margin: 10; padding: 10;
+}
+#container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+</style>
